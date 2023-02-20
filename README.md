@@ -51,7 +51,7 @@ A simple calculator with React
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[you can see the live demo through this link](https://mohisa302.github.io/MathMagicians/)
+[you can see the live demo through this link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,7 +85,7 @@ To clone this repository to your desired folder, follow the steps below:
 
 - Follow the steps below
 
-  - Visit this link "https://github.com/mohisa302/MathMagicians.git"
+  - Visit this link "https://github.com/djo1975/mathMagicians"
   - Click the green button labelled "code"
   - Select the "Open with GitHub Desktop" option
   - After the GitHub Desktop add opens, click the "clone repo" button
@@ -101,20 +101,18 @@ To run the project, execute the following command:
 
 You can deploy this project by:
 
-- visiting your repository on [GitHub](https://github.com)
+- visiting your repository on [GitHub](https://github.com/djo1975/mathMagicians)
 - Click on settings
 - Go to the "Pages" option
 - Select the main branch and save
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 👥 Authors <a name="authors"></a>
+👤 👤 **@djo1975**
 
-👤 **Mohi**
-
-- GitHub: [@mohisa302](https://github.com/mohisa302)
-- Twitter: [@Kholochelam](https://twitter.com/Kholochelam)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/mohadese-sadeghi-692551199/)
+- GitHub: [@githubhandle]()
+- Twitter: [@twitterhandle]()
+- LinkedIn: [LinkedIn]()
 
 ## 🔭 Future Features <a name="future-features"></a>
 
