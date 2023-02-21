@@ -2,7 +2,7 @@
 
 <div>
 
-  <h1><b>Math Magicians components</b></h1><br/><br/>
+  <h1><b>Math Magicians</b></h1><br/><br/>
 
 </div>
 
