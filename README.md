@@ -25,11 +25,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Math Magicians <a name="about-project"></a>
+# 📖 Math Magicians components<a name="about-project"></a>
 
-**Math Magicians**
+**Math Magicians components**
 
-A simple calculator with React
+In this project, you should continue with the development of the Math Magicians app. You will develop a React component that will hold the core functionality: a calculator.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,7 +51,7 @@ A simple calculator with React
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[you can see the live demo through this link]()
+[you can see the live demo through this link](https://serene-beijinho-0254c5.netlify.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -108,17 +108,17 @@ You can deploy this project by:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-👤 👤 **@djo1975**
+👤 👤 **Mladan**
 
-- GitHub: [@githubhandle]()
-- Twitter: [@twitterhandle]()
-- LinkedIn: [LinkedIn]()
+- GitHub: [@djo1975](https://github.com/djo1975)
+- Twitter: [@MladanIlic](https://twitter.com/MladanIlic)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mladan-ilic-0528a2256/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[will improve page elements]**
 - [ ] **[will improve styles]**
-- [ ] **[will improve js functionality]**
+- [ ] **[will improve functionality]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
