@@ -2,7 +2,7 @@
 
 <div>
 
-  <h1><b>Math Magicians</b></h1><br/><br/>
+  <h1><b>Math Magicians components</b></h1><br/><br/>
 
 </div>
 
@@ -25,11 +25,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Math Magicians <a name="about-project"></a>
+# 📖 Math Magicians components<a name="about-project"></a>
 
-**Math Magicians**
+**Math Magicians components**
 
-A simple calculator with React
+In this project, you should continue with the development of the Math Magicians app. You will develop a React component that will hold the core functionality: a calculator.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -94,8 +94,8 @@ To clone this repository to your desired folder, follow the steps below:
 
 To run the project, execute the following command:
 
-- **npm install**
-- **npm start**
+- **npx run build**
+- **npx start**
 
 ### Deployment
 
@@ -118,7 +118,7 @@ You can deploy this project by:
 
 - [ ] **[will improve page elements]**
 - [ ] **[will improve styles]**
-- [ ] **[will improve js functionality]**
+- [ ] **[will improve functionality]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
