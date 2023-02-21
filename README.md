@@ -51,7 +51,7 @@ In this project, you should continue with the development of the Math Magicians 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[you can see the live demo through this link]()
+[you can see the live demo through this link](https://serene-beijinho-0254c5.netlify.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,8 +94,8 @@ To clone this repository to your desired folder, follow the steps below:
 
 To run the project, execute the following command:
 
-- **npx run build**
-- **npx start**
+- **npm install**
+- **npm start**
 
 ### Deployment
 
@@ -108,11 +108,11 @@ You can deploy this project by:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-👤 👤 **@djo1975**
+👤 👤 **Mladan**
 
-- GitHub: [@githubhandle]()
-- Twitter: [@twitterhandle]()
-- LinkedIn: [LinkedIn]()
+- GitHub: [@djo1975](https://github.com/djo1975)
+- Twitter: [@MladanIlic](https://twitter.com/MladanIlic)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mladan-ilic-0528a2256/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 

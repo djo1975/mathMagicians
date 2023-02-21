@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(235, 152, 152);
+  background-color: white;
 }
 
 #calculator {
@@ -10,11 +10,12 @@ body {
 
 #exit {
   height: 18%;
-    width: 80%;
-    text-align: right;
-    font-size: large;
-    color: white;
-    box-sizing: border-box;
+  width: 80%;
+  background-color: gray;
+  text-align: right;
+  font-size: xx-large;
+  color: white;
+  box-sizing: border-box;
 }
 
 #input {
@@ -32,14 +33,15 @@ body {
 #digits > * {
   border: 1px solid gainsboro;
   outline: none;
+  font-size: x-large;
 }
 
 #digits :nth-child(4n) {
-  background-color: rgb(245, 164, 15);
+  background-color: orange;
 }
 
 #digits :last-child {
-  background-color: rgb(167, 121, 37);
+  background-color: orange;
 }
 
 #digits :nth-child(17) {
