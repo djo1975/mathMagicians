@@ -1,5 +1,4 @@
 <a name="readme-top"></a>
-
 <div>
 
   <h1><b>Math Magicians</b></h1><br/><br/>
