@@ -1,5 +1,4 @@
 <a name="readme-top"></a>
-
 <div>
 
   <h1><b>Math Magicians</b></h1><br/><br/>
@@ -25,11 +24,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Math Magicians components<a name="about-project"></a>
+# 📖 Math Magicians events<a name="about-project"></a>
 
-**Math Magicians components**
+**Math Magicians events**
 
-In this project, you should continue with the development of the Math Magicians app. You will develop a React component that will hold the core functionality: a calculator.
+In this project, you will add the logic needed to make the Calculator component you developed in the previous project actually work.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,7 +50,7 @@ In this project, you should continue with the development of the Math Magicians 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[you can see the live demo through this link](https://serene-beijinho-0254c5.netlify.app)
+[you can see the live demo through this link](https://frabjous-pegasus-8b2753.netlify.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
