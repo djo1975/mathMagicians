@@ -25,11 +25,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Math Magicians components<a name="about-project"></a>
+# 📖 Math Magicians events<a name="about-project"></a>
 
-**Math Magicians components**
+**Math Magicians events**
 
-In this project, you should continue with the development of the Math Magicians app. You will develop a React component that will hold the core functionality: a calculator.
+In this project, you will add the logic needed to make the Calculator component you developed in the previous project actually work.
 
 ## 🛠 Built With <a name="built-with"></a>
 
