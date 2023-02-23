@@ -7,13 +7,14 @@ const obj = {
   operation: null,
 };
 
-export default function Calculator() {
+function Calculator() {
   const [output, setOutput] = useState(obj);
 
   const gumbs = ['AC', '+/-', '%', '÷', 7, 8, 9, 'x', 4, 5, 6, '-', 1, 2, 3, '+', 0, '.', '='];
+
   const handleBtnClick = (e) => {
     const btn = e.target.name;
-    return setOutput(calculate(output, btn));
+    setOutput((prevOutput) => calculate(prevOutput, btn));
   };
 
   const screen = (item) => {
@@ -56,3 +57,5 @@ export default function Calculator() {
     </section>
   );
 }
+
+export default Calculator;
