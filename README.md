@@ -25,11 +25,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Math Magicians events<a name="about-project"></a>
+# 📖 Math Magicians with hooks<a name="about-project"></a>
 
-**Math Magicians events**
+**Math Magicians with hooks**
 
-In this project, you will add the logic needed to make the Calculator component you developed in the previous project actually work.
+In this project you will refactor the Calculator component you developed in the past projects. Instead of using class based components, you will use now hooks.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,7 +51,7 @@ In this project, you will add the logic needed to make the Calculator component 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[you can see the live demo through this link](https://frabjous-pegasus-8b2753.netlify.app)
+[you can see the live demo through this link](https://serene-beijinho-0254c5.netlify.app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
