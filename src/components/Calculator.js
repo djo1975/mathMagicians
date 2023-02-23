@@ -7,14 +7,15 @@ const obj = {
   operation: null,
 };
 
-function Calculator() {
+export default function Calculator() {
   const [output, setOutput] = useState(obj);
+  const [activeBtn, setActiveBtn] = useState(null);
 
   const gumbs = ['AC', '+/-', '%', '÷', 7, 8, 9, 'x', 4, 5, 6, '-', 1, 2, 3, '+', 0, '.', '='];
-
   const handleBtnClick = (e) => {
     const btn = e.target.name;
-    setOutput((prevOutput) => calculate(prevOutput, btn));
+    setOutput(calculate(output, btn));
+    setActiveBtn(btn);
   };
 
   const screen = (item) => {
@@ -40,22 +41,19 @@ function Calculator() {
       />
       <section id="input">
         <article id="digits">
-          {
-            gumbs.map((gumb) => (
-              <button
-                key={gumb}
-                type="button"
-                name={gumb}
-                onClick={handleBtnClick}
-              >
-                {gumb}
-              </button>
-            ))
-          }
+          {gumbs.map((gumb) => (
+            <button
+              key={gumb}
+              type="button"
+              name={gumb}
+              className={activeBtn === gumb ? 'active' : ''}
+              onClick={handleBtnClick}
+            >
+              {gumb}
+            </button>
+          ))}
         </article>
       </section>
     </section>
   );
 }
-
-export default Calculator;
