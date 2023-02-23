@@ -37,9 +37,8 @@ In this project you will refactor the Calculator component you developed in the 
 
 <summary>Client</summary>
 <ul>
-  <li><a href="https://html.com/html5/">HTML5</a></li>
+  <li><a href="#">React</a></li>
   <li><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">CSS</a></li>
-  <li><a href="https://www.javascript.com/">JavaScript</a></li>
 </ul>
 
 ### Key Features <a name="key-features"></a>
@@ -96,6 +95,14 @@ To run the project, execute the following command:
 
 - **npm install**
 - **npm start**
+
+### Testing
+
+To run the project, execute the following command:
+
+```
+  npm run test
+```
 
 ### Deployment
 
