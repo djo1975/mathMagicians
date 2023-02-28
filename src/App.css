@@ -76,22 +76,22 @@ ul a {
   padding: 20px;
 }
 
- p {
+p {
   font-size: x-large;
   margin: 3rem;
 }
 
- h2 {
+h2 {
   font-size: xx-large;
   margin-left: 3rem;
 }
 
- h1 {
+h1 {
   font-size: xxx-large;
   margin-left: 2rem;
 }
 
- .quotes {
+.quotes {
   display: flex;
   flex-direction: column;
   align-items: center;
