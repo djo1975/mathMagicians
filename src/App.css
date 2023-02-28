@@ -75,20 +75,21 @@ ul a {
   margin: 0 auto;
   padding: 20px;
 }
+
  p {
   font-size: x-large;
   margin: 3rem;
- }
+}
 
  h2 {
   font-size: xx-large;
   margin-left: 3rem;
- }
+}
 
  h1 {
   font-size: xxx-large;
   margin-left: 2rem;
- }
+}
 
  .quotes {
   display: flex;
@@ -97,4 +98,4 @@ ul a {
   margin-top: 6rem;
   font-size: xx-large;
   margin-bottom: 6rem;
- }
+}
