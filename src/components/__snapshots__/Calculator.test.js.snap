@@ -146,3 +146,7 @@ exports[`Calculator renders correctly 1`] = `
   <div />
 </div>
 `;
+
+exports[`Calculator should render correctly 1`] = `ShallowWrapper {}`;
+
+exports[`Calculator should renders correctly 1`] = `ShallowWrapper {}`;
