@@ -49,7 +49,7 @@ In this project, you will create a full website for the Math magicians app, cons
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[you can see the live demo through this link](https://roaring-profiterole-700d40.netlify.app/quotes)
+[you can see the live demo through this link](https://unique-dragon-7511a0.netlify.app/quotes)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,6 +119,12 @@ You can deploy this project by:
 - GitHub: [@djo1975](https://github.com/djo1975)
 - Twitter: [@MladanIlic](https://twitter.com/MladanIlic)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mladan-ilic-0528a2256/)
+
+👤 **Christian Hakizimana**
+
+- GitHub: [@githubhandle](https://github.com/hakichris)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/hakichris)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
