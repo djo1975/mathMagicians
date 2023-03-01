@@ -120,6 +120,12 @@ You can deploy this project by:
 - Twitter: [@MladanIlic](https://twitter.com/MladanIlic)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mladan-ilic-0528a2256/)
 
+👤 **Christian Hakizimana**
+
+- GitHub: [@githubhandle](https://github.com/hakichris)
+- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/hakichris)
+
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[will improve page elements]**
