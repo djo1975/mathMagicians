@@ -1,0 +1,148 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator renders correctly 1`] = `
+<div
+  className="component-app"
+>
+  <div
+    className="calculator-body"
+  >
+    <div
+      className="component-display"
+    >
+      <div>
+        0
+      </div>
+    </div>
+    <div
+      className="component-button-panel"
+    >
+      <div>
+        <button
+          className="component-button"
+          onClick={[Function]}
+        >
+          AC
+        </button>
+        <button
+          className="component-button"
+          onClick={[Function]}
+        >
+          +/-
+        </button>
+        <button
+          className="component-button"
+          onClick={[Function]}
+        >
+          %
+        </button>
+        <button
+          className="component-button orange"
+          onClick={[Function]}
+        >
+          ÷
+        </button>
+      </div>
+      <div>
+        <button
+          className="component-button"
+          onClick={[Function]}
+        >
+          7
+        </button>
+        <button
+          className="component-button"
+          onClick={[Function]}
+        >
+          8
+        </button>
+        <button
+          className="component-button"
+          onClick={[Function]}
+        >
+          9
+        </button>
+        <button
+          className="component-button orange"
+          onClick={[Function]}
+        >
+          x
+        </button>
+      </div>
+      <div>
+        <button
+          className="component-button"
+          onClick={[Function]}
+        >
+          4
+        </button>
+        <button
+          className="component-button"
+          onClick={[Function]}
+        >
+          5
+        </button>
+        <button
+          className="component-button"
+          onClick={[Function]}
+        >
+          6
+        </button>
+        <button
+          className="component-button orange"
+          onClick={[Function]}
+        >
+          -
+        </button>
+      </div>
+      <div>
+        <button
+          className="component-button"
+          onClick={[Function]}
+        >
+          1
+        </button>
+        <button
+          className="component-button"
+          onClick={[Function]}
+        >
+          2
+        </button>
+        <button
+          className="component-button"
+          onClick={[Function]}
+        >
+          3
+        </button>
+        <button
+          className="component-button orange"
+          onClick={[Function]}
+        >
+          +
+        </button>
+      </div>
+      <div>
+        <button
+          className="component-button  wide"
+          onClick={[Function]}
+        >
+          0
+        </button>
+        <button
+          className="component-button"
+          onClick={[Function]}
+        >
+          .
+        </button>
+        <button
+          className="component-button orange"
+          onClick={[Function]}
+        >
+          =
+        </button>
+      </div>
+    </div>
+  </div>
+  <div />
+</div>
+`;

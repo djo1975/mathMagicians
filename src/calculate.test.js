@@ -7,8 +7,8 @@ describe('calculate', () => {
   });
 
   it('should concatenate numbers when a number button is pressed', () => {
-    const result = calculate({ total: '10', next: null, operation: null }, '5');
-    expect(result).toEqual({ total: '10', next: '5', operation: null });
+    const result = calculate({ total: null, next: '10', operation: null }, '5');
+    expect(result).toEqual({ total: null, next: '105', operation: null });
   });
 
   it('should not allow multiple leading zeros', () => {
