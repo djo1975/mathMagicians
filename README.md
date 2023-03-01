@@ -49,7 +49,7 @@ In this project, you will create a full website for the Math magicians app, cons
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[you can see the live demo through this link](https://roaring-profiterole-700d40.netlify.app/quotes)
+[you can see the live demo through this link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
