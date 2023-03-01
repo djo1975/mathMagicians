@@ -24,11 +24,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Math Magicians with hooks<a name="about-project"></a>
+# 📖 Math magicians: full website<a name="about-project"></a>
 
-**Math Magicians with hooks**
+**Math magicians: full website**
 
-In this project you will refactor the Calculator component you developed in the past projects. Instead of using class based components, you will use now hooks.
+In this project, you will create a full website for the Math magicians app, consisting of several pages and using the components you already created.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -49,7 +49,7 @@ In this project you will refactor the Calculator component you developed in the 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-[you can see the live demo through this link](https://serene-beijinho-0254c5.netlify.app)
+[you can see the live demo through this link](https://roaring-profiterole-700d40.netlify.app/quotes)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
